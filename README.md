@@ -63,12 +63,6 @@ pnpm i ims-zustand -S
 
 详情：[CHANGELOG](./CHANGELOG.md)
 
-## 截图
-
-![chart1](https://github.com/eternallycyf/ims-zustand/blob/master/public/chart1.png)
-
-![chart2](https://github.com/eternallycyf/ims-zustand/blob/master/public/chart2.png)
-
 ## 🤝 Contributing
 
 <!-- CONTRIBUTION GROUP -->
