@@ -1,7 +1,7 @@
 ---
 hero:
-  title: ims-template
-  description: a npm develop template
+  title: ims-zustand
+  description: write a easy zustand
   actions:
     - text: 快速上手
       link: /guide

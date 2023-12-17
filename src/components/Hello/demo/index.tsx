@@ -1,3 +1,3 @@
-import { Hello } from 'ims-template';
+import { Hello } from 'ims-zustand';
 
 export default Hello;
