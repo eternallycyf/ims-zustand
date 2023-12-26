@@ -39,7 +39,12 @@ export const footer = [
       },
       {
         title: 'ims-IndexedDB',
-        url: 'https://ims-indexed-db.vercel.app/components/create-indexed-db-helper',
+        url: 'https://components-eternallycyf.vercel.app/',
+        openExternal: true,
+      },
+      {
+        title: '@ims-view/components',
+        url: 'https://ims-graph.vercel.app/components/graph-chart',
         openExternal: true,
       },
     ],
@@ -85,11 +90,6 @@ export const footer = [
       {
         title: 'lrxc-cli',
         url: 'https://github.com/eternallycyf/lrxc-cli',
-        openExternal: true,
-      },
-      {
-        title: 'ims-zustand',
-        url: 'https://github.com/eternallycyf/ims-zustand',
         openExternal: true,
       },
     ],
