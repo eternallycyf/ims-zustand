@@ -1,5 +1,30 @@
 # Changelog
 
+## [Version&nbsp;1.7.0](https://github.com/eternallycyf/ims-zustand/compare/v1.6.0...v1.7.0)
+
+<sup>Released on **2024-03-21**</sup>
+
+#### ✨ 新特性
+
+- Test.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Test ([036f671](https://github.com/eternallycyf/ims-zustand/commit/036f671))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version&nbsp;1.6.0](https://github.com/eternallycyf/ims-zustand/compare/v1.5.0...v1.6.0)
 
 <sup>Released on **2024-03-20**</sup>
