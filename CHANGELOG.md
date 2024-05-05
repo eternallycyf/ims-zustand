@@ -1,5 +1,31 @@
 # Changelog
 
+## [Version&nbsp;1.8.0](https://github.com/eternallycyf/ims-zustand/compare/v1.7.0...v1.8.0)
+
+<sup>Released on **2024-05-05**</sup>
+
+#### ✨ 新特性
+
+- Add umd build, add umd build.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Add umd build ([1ee467f](https://github.com/eternallycyf/ims-zustand/commit/1ee467f))
+- Add umd build ([baf0e5e](https://github.com/eternallycyf/ims-zustand/commit/baf0e5e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version&nbsp;1.7.0](https://github.com/eternallycyf/ims-zustand/compare/v1.6.0...v1.7.0)
 
 <sup>Released on **2024-03-21**</sup>
