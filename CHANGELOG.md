@@ -1,5 +1,30 @@
 # Changelog
 
+### [Version&nbsp;1.8.1](https://github.com/eternallycyf/ims-zustand/compare/v1.8.0...v1.8.1)
+
+<sup>Released on **2024-05-13**</sup>
+
+#### 🐛 修复
+
+- React error.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- React error ([a4e5996](https://github.com/eternallycyf/ims-zustand/commit/a4e5996))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version&nbsp;1.8.0](https://github.com/eternallycyf/ims-zustand/compare/v1.7.0...v1.8.0)
 
 <sup>Released on **2024-05-05**</sup>
